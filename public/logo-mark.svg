@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200"
+     xmlns="http://www.w3.org/2000/svg" role="img">
+<title>PosturePilot Logo Mark</title>
+<defs><linearGradient id="arcg" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#6172F3"/>
+  <stop offset="100%" stop-color="#2DD4BF"/>
+</linearGradient>
+<linearGradient id="icong" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#6E7FF5"/>
+  <stop offset="100%" stop-color="#4F5ECC"/>
+</linearGradient></defs>
+
+<rect x="26" y="26" width="148" height="148" rx="36" fill="url(#icong)"/>
+<line x1="100" y1="63.90" x2="100" y2="139.90" stroke="#F1F5F9" stroke-width="5.32" stroke-linecap="round"/>
+<circle cx="100" cy="58.20" r="10.64" fill="#F1F5F9"/>
+<circle cx="76.44" cy="95.44" r="6.08" fill="#F1F5F9" opacity="0.88"/>
+<circle cx="123.56" cy="95.44" r="6.08" fill="#F1F5F9" opacity="0.88"/>
+<path d="M100.00 63.90 C144.84 63.90 144.84 103.04 100.00 103.04" fill="none" stroke="url(#arcg)" stroke-width="5.32" stroke-linecap="round"/>
+<line x1="88.60" y1="138.00" x2="111.40" y2="138.00" stroke="#F1F5F9" stroke-width="3.80" stroke-linecap="round" opacity="0.38"/>
+</svg>

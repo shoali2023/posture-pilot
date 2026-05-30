@@ -1,0 +1,78 @@
+# ── Dependencies ───────────────────────────────────────────
+node_modules/
+.pnp
+.pnp.js
+
+# ── Build outputs ───────────────────────────────────────────
+dist/
+build/
+.vite/
+.cache/
+.tmp/
+temp/
+
+# ── Environment ─────────────────────────────────────────────
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local
+
+# ── Logs ────────────────────────────────────────────────────
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# ── Test / coverage ─────────────────────────────────────────
+coverage/
+.nyc_output/
+
+# ── OS ──────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ── IDE and local tooling ────────────────────────────────────
+.vscode/
+.idea/
+.cursor/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ── Local / generated data ──────────────────────────────────
+*.local
+local-data/
+session-data/
+exports/
+
+# ── TypeScript incremental build cache ──────────────────────
+tsconfig.tsbuildinfo
+*.tsbuildinfo
+
+# ── Backup and temp files ───────────────────────────────────
+*.bak
+*.old
+
+# ── Local workspace ─────────────────────────────────────────
+notes-private/
+docs/raw-private/
+
+# ── Raw design source folder ────────────────────────────────
+logo and identidad/
+
+# ── Temporary media ─────────────────────────────────────────
+screenshots/tmp/
+recordings/
+*.webm
+*.mp4
+
+# ── Design source files ─────────────────────────────────────
+*.psd
+*.fig
+*.sketch

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360" height="72" viewBox="0 0 360 72"
+     xmlns="http://www.w3.org/2000/svg" role="img">
+<title>PosturePilot — Horizontal Dark</title>
+<defs><linearGradient id="arcg" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#6172F3"/>
+  <stop offset="100%" stop-color="#2DD4BF"/>
+</linearGradient>
+<linearGradient id="icong" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#6E7FF5"/>
+  <stop offset="100%" stop-color="#4F5ECC"/>
+</linearGradient></defs>
+
+<rect x="0" y="10" width="52" height="52" rx="14" fill="url(#icong)"/>
+<line x1="26.0" y1="26.50" x2="26.0" y2="46.50" stroke="#F1F5F9" stroke-width="1.40" stroke-linecap="round"/>
+<circle cx="26.0" cy="25.00" r="2.80" fill="#F1F5F9"/>
+<circle cx="19.80" cy="34.80" r="1.60" fill="#F1F5F9" opacity="0.88"/>
+<circle cx="32.20" cy="34.80" r="1.60" fill="#F1F5F9" opacity="0.88"/>
+<path d="M26.00 26.50 C37.80 26.50 37.80 36.80 26.00 36.80" fill="none" stroke="url(#arcg)" stroke-width="1.40" stroke-linecap="round"/>
+<line x1="23.00" y1="46.00" x2="29.00" y2="46.00" stroke="#F1F5F9" stroke-width="1.00" stroke-linecap="round" opacity="0.38"/>
+<line x1="66" y1="18" x2="66" y2="54" stroke="#232838" stroke-width="0.8"/>
+<text x="74" y="43" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-weight="600" letter-spacing="-0.4" font-size="26" fill="#F1F5F9"><tspan fill="#818CF8">Posture</tspan>Pilot</text>
+<text x="74" y="65.1" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.7" fill="#64748B" letter-spacing="0.2">Posture Awareness Assistant</text>
+</svg>

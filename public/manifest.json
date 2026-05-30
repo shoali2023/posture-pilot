@@ -1,0 +1,21 @@
+{
+  "name": "PosturePilot",
+  "short_name": "PosturePilot",
+  "description": "A browser-based posture awareness assistant for long computer sessions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F1117",
+  "theme_color": "#6172F3",
+  "icons": [
+    {
+      "src": "/posturepilot-app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/posturepilot-app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
