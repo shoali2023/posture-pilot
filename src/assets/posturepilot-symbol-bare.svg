@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="120" viewBox="0 0 120 120"
+     xmlns="http://www.w3.org/2000/svg" role="img">
+<title>PosturePilot Symbol</title>
+<defs><linearGradient id="arcg" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#6172F3"/>
+  <stop offset="100%" stop-color="#2DD4BF"/>
+</linearGradient>
+<linearGradient id="icong" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#6E7FF5"/>
+  <stop offset="100%" stop-color="#4F5ECC"/>
+</linearGradient></defs>
+
+<line x1="60" y1="33.40" x2="60" y2="89.40" stroke="#6172F3" stroke-width="3.92" stroke-linecap="round"/>
+<circle cx="60" cy="29.20" r="7.84" fill="#6172F3"/>
+<circle cx="42.64" cy="56.64" r="4.48" fill="#6172F3" opacity="0.88"/>
+<circle cx="77.36" cy="56.64" r="4.48" fill="#6172F3" opacity="0.88"/>
+<path d="M60.00 33.40 C93.04 33.40 93.04 62.24 60.00 62.24" fill="none" stroke="url(#arcg)" stroke-width="3.92" stroke-linecap="round"/>
+<line x1="51.60" y1="88.00" x2="68.40" y2="88.00" stroke="#6172F3" stroke-width="2.80" stroke-linecap="round" opacity="0.38"/>
+</svg>
